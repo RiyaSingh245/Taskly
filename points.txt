@@ -1,0 +1,11 @@
+There is no direct implementation of database in flutter, this is done by importing external packages
+
+pub.dev :this website has information about all the packages used in flutter
+
+hive : a package to implement NoSQL database
+
+To import external packages / plugins :
+pubspec.yaml -> dependencies -> add
+or,
+vsCode -> terminal -> flutter pub get
+pub : package manager
